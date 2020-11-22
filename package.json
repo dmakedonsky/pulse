@@ -1,0 +1,36 @@
+{
+  "name": "taxi-step-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmakedonsky/taxi.git"
+  },
+  "author": "DMakedonsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmakedonsky/taxi/issues"
+  },
+  "homepage": "https://github.com/dmakedonsky/taxi#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "htmlmin": "0.0.7"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "defaults",
+    "last 2 versions",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}

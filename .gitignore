@@ -1,0 +1,8 @@
+
+# ------ Ignore ------
+
+/psd
+/dist
+/src
+/_MACOSX
+/node_modules

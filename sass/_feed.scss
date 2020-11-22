@@ -1,0 +1,45 @@
+.feed {
+    padding: 60px 0 20px 0;
+    background-color: #f6f6f6;
+    &__title {
+        font-size: 30px;
+        line-height: 32px;
+        text-transform: uppercase;
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+    &__item {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+    &__img {
+        display: block;
+        width: 169px;
+        height: 169px;
+        margin: 0 60px 0 0;
+    }
+    &__name {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: normal;
+        color: #0f0f0f;
+        margin-bottom: 15px;
+    }
+    &__name-info {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: normal;
+        color: #666666;
+        margin-bottom: 20px;
+    }
+
+    &__responce {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: normal;
+        color: #0f0f0f;
+    }
+
+}
